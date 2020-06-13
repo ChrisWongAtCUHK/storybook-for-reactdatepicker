@@ -12,4 +12,5 @@
 
 ## [React Date Picker](https://reactdatepicker.com/)
 
+- Custom header
 - Inline version
